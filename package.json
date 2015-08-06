@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.4.3"
+  },
+  "devDependencies": {
+    "karma": "^0.13.8"
   }
 }
